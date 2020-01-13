@@ -18,6 +18,7 @@ use Str;
 
 class IndexController extends Controller
 {
+
     /**
      * 首页
      *
